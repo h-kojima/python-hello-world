@@ -2,5 +2,5 @@
 
 Usage:
 ```
-python3 hello.py
+python3 app.py
 ```
